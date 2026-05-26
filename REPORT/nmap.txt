@@ -1,6 +1,6 @@
 nmap -sS -sC -sV -O --min-rate 500 -T4 10.129.169.163 -p-
 
-Nmap scan report for 10.129.133.202 (10.129.133.202)
+Nmap scan report for 10.129.169.163 (10.129.169.163)
 Host is up (0.018s latency).
 Not shown: 65533 closed tcp ports (reset)
 PORT     STATE SERVICE VERSION
